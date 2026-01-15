@@ -89,8 +89,7 @@ The Power BI dashboard includes visualizations for:
 ## 📄 Documentation
 
 - **Project Documentation** ([`ProjectDoc.pdf`](ProjectDoc.pdf)) - Complete project specifications and methodology
-- **Presentation (PDF)** ([`Customer Behavior Analysis.pdf`](Customer%20Behavior%20Analysis.pdf)) - Presentation slides in PDF format
-- **Presentation (PowerPoint)** ([`src/Customer Behavior Analysis.pptx`](src/Customer%20Behavior%20Analysis.pptx)) - Editable presentation slides
+- **Presentation** ([`Customer Behavior Analysis.pdf`](Customer%20Behavior%20Analysis.pdf)) - Presentation slides in PDF format
 
 ## 🚀 Getting Started
 
@@ -112,6 +111,10 @@ The Power BI dashboard includes visualizations for:
 3. **Power BI Dashboard**
    - Open `powerBI/customer_behavior_dashboard.pbix` in Power BI Desktop
    - Refresh data connections to see updated visualizations
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
